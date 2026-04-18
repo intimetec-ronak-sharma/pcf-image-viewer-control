@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Jgw4uZANWE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\pcf-image-viewer-control-main\\pcf-image-viewer-control-main\\ImageControl\\ImageViewer\\obj\\PowerAppsToolsTemp_rosh\\PowerAppsToolsTemp_rosh.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.52.1\\microsoft.powerapps.msbuild.pcf.1.52.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.52.1\\microsoft.powerapps.msbuild.solution.1.52.1.nupkg.sha512"
+  ],
+  "logs": []
+}

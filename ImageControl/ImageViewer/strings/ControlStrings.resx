@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Control_DisplayName" xml:space="preserve">
+    <value>Image Viewer</value>
+  </data>
+
+  <data name="Control_Description" xml:space="preserve">
+    <value>Displays image from URL with delete option</value>
+  </data>
+
+  <data name="ImageUrl_DisplayName" xml:space="preserve">
+    <value>Image URL</value>
+  </data>
+
+  <data name="ImageUrl_Description" xml:space="preserve">
+    <value>Enter image URL</value>
+  </data>
+</root>

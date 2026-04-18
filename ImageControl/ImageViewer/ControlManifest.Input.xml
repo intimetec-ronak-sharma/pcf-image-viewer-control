@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control 
+    namespace="ImageControl" 
+    constructor="ImageViewer" 
+    version="1.0.0" 
+    display-name-key="Control_DisplayName" 
+    description-key="Control_Description" 
+    control-type="standard">
+
+    <external-service-usage enabled="false" />
+
+    <!-- PROPERTY -->
+    <property 
+        name="imageUrl"
+        display-name-key="ImageUrl_DisplayName"
+        description-key="ImageUrl_Description"
+        of-type="SingleLine.Text"
+        usage="bound"
+        required="false" />
+
+    <!-- RESOURCES -->
+    <resources>
+      <code path="index.ts" order="1"/>
+      <resx path="strings/ControlStrings.resx" version="1.0.0" />
+    </resources>
+
+  </control>
+</manifest>

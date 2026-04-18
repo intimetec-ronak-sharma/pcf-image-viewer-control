@@ -1,0 +1,20 @@
+2026-04-18 13:31:24.068 - Info	
+Packing C:\Users\user\Desktop\Learing\PCF\ImageControl\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2026-04-18 13:31:24.084 - Info	Processing Component: Entities
+2026-04-18 13:31:24.084 - Info	Processing Component: Roles
+2026-04-18 13:31:24.084 - Info	Processing Component: Workflows
+2026-04-18 13:31:24.084 - Info	Processing Component: FieldSecurityProfiles
+2026-04-18 13:31:24.084 - Info	Processing Component: Templates
+2026-04-18 13:31:24.084 - Info	Processing Component: EntityMaps
+2026-04-18 13:31:24.100 - Info	Processing Component: EntityRelationships
+2026-04-18 13:31:24.100 - Info	Processing Component: OrganizationSettings
+2026-04-18 13:31:24.100 - Info	Processing Component: optionsets
+2026-04-18 13:31:24.100 - Info	Processing Component: CustomControls
+2026-04-18 13:31:24.100 - Info	 - ImageControl.ImageViewer
+2026-04-18 13:31:24.100 - Info	Processing Component: SolutionPluginAssemblies
+2026-04-18 13:31:24.115 - Info	Processing Component: EntityDataProviders
+2026-04-18 13:31:24.115 - Info	Processing Sharded Component Files
+2026-04-18 13:31:24.160 - Info	
+Unmanaged Pack complete.
+
